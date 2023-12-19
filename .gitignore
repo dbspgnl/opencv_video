@@ -14,9 +14,12 @@ runs/
 *.pt
 
 # 영상 파일
-data/
+data/*
 *.mp4
 *.mov
+custom/*
+line/*
+out/*
 
 # .vscode
 # "cwd": "${fileDirname}"
